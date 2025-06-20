@@ -159,8 +159,7 @@ _See `lambda/`, `glue/`, and `.github/workflows/` for code and automation detail
 ## 🧑‍💻 Author
 
 **Garrett Moore**  
-[LinkedIn](https://www.linkedin.com/in/garrettmoore4/) (update this link!)
-
+[LinkedIn](https://www.linkedin.com/in/garrettmoore4/) 
 ----------
 
 ## 📣 Questions?
