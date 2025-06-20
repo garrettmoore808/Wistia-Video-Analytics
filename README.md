@@ -24,9 +24,6 @@ This project demonstrates a robust, cloud-native data engineering pipeline built
 -   AWS IAM (security)
     
 -   GitHub Actions (CI/CD)
-    
-
-<p align="center"> <img src="https://user-images.githubusercontent.com/11109519/276601883-817d90c2-2e4b-4c3b-8cce-91e0136b3602.png" width="640" alt="Wistia AWS Data Pipeline Architecture"> </p>
 
 ----------
 
